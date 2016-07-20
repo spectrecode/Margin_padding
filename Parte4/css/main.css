@@ -1,0 +1,21 @@
+/* Agrega aqui tu CSS */
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+div	{
+	border:2px solid #EB8459;
+	width: 17%;
+}
+
+p   {
+	padding-bottom: 30px;
+	padding-right: -10px;
+	font-size: 19px;
+}
+
+h3	{
+	padding-top: 15px;
+}
