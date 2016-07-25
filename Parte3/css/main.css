@@ -1,20 +1,23 @@
-/* Agrega aqui tu CSS */
-*{
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+.bloque {
+	width: 200px;
+	border: 2px solid #EB8459;
+	padding: 10px;
 }
 
-div	{
-	border:2px solid #EB8459;
-	width: 17%;
+.bloque h3 {
+	font-size: 1em;
+	margin: 0.5em 0em;
 }
 
-p   {
-	padding: 20px 10px 20px 10px;
-	font-size: 19px;
+.bloque p {
+	font-size: 1em;
 }
 
-h3	{
-	padding-top: 15px;
+.left {
+	display: inline-block;
+}
+
+.right {
+	display: inline-block;
+	margin-left: 100px
 }
